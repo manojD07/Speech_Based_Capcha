@@ -33,7 +33,9 @@ This app uses Hidden Markov Model to recognise the words(HMM Prob 1 solution for
 
 ## ScreenShots
 
-
+![Project image](https://github.com/sanilup1234/Speech_Project/blob/master/IMG1.jpeg?raw=true)
+![Project image](https://github.com/sanilup1234/Speech_Project/blob/master/IMG2.jpeg?raw=true)
+![Project image](https://github.com/sanilup1234/Speech_Project/blob/master/IMG4.jpeg?raw=true)
 
 
 
